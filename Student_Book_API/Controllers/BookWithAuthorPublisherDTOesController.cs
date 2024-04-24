@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Student_Book_API.DTO;
 using Student_Book_API.Data;
+using Student_Book_API.Models.DTO;
 
 namespace Student_Book_API.Controllers
 {
@@ -20,13 +20,7 @@ namespace Student_Book_API.Controllers
         {
             _context = context;
         }
-        //Get http://localhost:port/api/get-all-books
-        [HttpGet("get-all-book")]
-        public IActionResult GetAll()
-        {
-
-            return Ok();
-        }
+       
         // GET: api/BookWithAuthorPublisherDTOes
         [HttpGet]
         public async Task<ActionResult<IEnumerable<BookWithAuthorPublisherDTO>>> GetBookWithAuthorPublisherDTO()

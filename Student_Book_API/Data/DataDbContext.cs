@@ -1,7 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Internal;
 using Student_Book_API.Models.Domain;
-using Student_Book_API.DTO;
+using Student_Book_API.Models.DTO;
+
 namespace Student_Book_API.Data
 
 {
@@ -24,6 +25,12 @@ namespace Student_Book_API.Data
                 .WithMany(ab=>ab.Books_Authors)
                 .HasForeignKey(ai=>ai.AuthorID);
         }
-        public DbSet<Student_Book_API.DTO.BookWithAuthorPublisherDTO> BookWithAuthorPublisherDTO { get; set; } = default!;
+
+        internal object Select(Func<object, BookWithAuthorPublisherDTO> value)
+        {
+            throw new NotImplementedException();
+        }
+
+        public DbSet<BookWithAuthorPublisherDTO> BookWithAuthorPublisherDTO { get; set; } = default!;
     }
 }
