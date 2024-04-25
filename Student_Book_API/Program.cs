@@ -4,11 +4,13 @@ using Student_Book_API.Data;
 using Student_Book_API.Models.Domain;
 using Microsoft.EntityFrameworkCore.SqlServer;
 using System;
+using Student_Book_API.BookSevice;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+builder.Services.AddScoped<IBookReposi, BookReposi>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
