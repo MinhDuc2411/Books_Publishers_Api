@@ -12,7 +12,7 @@ namespace Student_Book_API.Models.DTO
         public string? Genre { get; set; }
         public string? Url { get; set; }
         public DateTime DateAdd { get; set; }
-        public string? PublisherName { get; set; }
+        public string PublisherId { get; set; }
         public List<string>? AuthorName { get; set; }
     }
 }

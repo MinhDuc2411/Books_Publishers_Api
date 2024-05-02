@@ -26,7 +26,7 @@ namespace Student_Book_API.BookSevice
                 Rate = Books.Rate,
                 Genre = Books.Genre,
                 Url = Books.ConverUrl,
-                PublisherName = Books.Publisher.Name,
+                PublisherId = Books.Publisher.Name,
                 AuthorName = Books.Books_Authors.Select(n => n.Authors.FullName).ToList()
             }).FirstOrDefault();
             return bookwithIdDTO;
@@ -44,7 +44,7 @@ namespace Student_Book_API.BookSevice
                 Rate = Books.Rate,
                 Genre = Books.Genre,
                 Url = Books.ConverUrl,
-                PublisherName = Books.Publisher.Name,
+                PublisherId = Books.Publisher.Name,
                 AuthorName = Books.Books_Authors.Select(n => n.Authors.FullName).ToList()
             }).ToList();
             return allBooksDTO;
@@ -54,6 +54,7 @@ namespace Student_Book_API.BookSevice
         {
             var bookdomainModel = new Books
             {
+               
                 Title = addBookRequestDTO.Title,
                 Description = addBookRequestDTO.Description,
                 IsRead = addBookRequestDTO.IsRead,

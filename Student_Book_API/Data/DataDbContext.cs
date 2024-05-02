@@ -32,5 +32,6 @@ namespace Student_Book_API.Data
         }
 
         public DbSet<BookWithAuthorPublisherDTO> BookWithAuthorPublisherDTO { get; set; } = default!;
+        public DbSet<Student_Book_API.Models.DTO.AuthorDTO> AuthorDTO { get; set; } = default!;
     }
 }

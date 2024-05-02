@@ -12,6 +12,6 @@ namespace Student_Book_API.Models.DTO
         public string ?CoverUrl {  get; set; }
         public DateTime DataAdded {  get; set; }
         public int PubshersId{ get; set; }
-        public List<int> AuthorIds { get; set; }
+        public List<int>? AuthorIds { get; set; }
     }
 }
