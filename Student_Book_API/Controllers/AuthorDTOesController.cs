@@ -22,13 +22,13 @@ namespace Student_Book_API.Controllers
             _context = context;
             _authorRepository = authorRepository;
         }
-
+        [HttpGet ("get")]
         // GET: api/AuthorDTOes
-        [HttpGet]
+        [HttpGet]        
         public async Task<ActionResult<IEnumerable<AuthorDTO>>> GetAuthorDTO()
         {
             var allauthor = _authorRepository.GetAll();
-            return Ok(allauthor);
+            return Ok(allauthor);   
         }
 
         // GET: api/AuthorDTOes/5

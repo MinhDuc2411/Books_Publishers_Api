@@ -24,11 +24,11 @@ namespace Student_Book_API.Controllers
             _iReposi = bookReposi;
         }
         [HttpGet]
-        public IActionResult GetAll()
+        public IActionResult GetAll([FromQuery] string? filterOn, [FromQuery] string? filterQuery, [FromQuery] string? sortBy, [FromQuery] bool isAscending, [FromQuery] int pageNumber = 1, [FromQuery] int pageSize = 100)
         {
-            //sử dụng bookReposi 
-            var allbook=_iReposi.GetallBook();
-            return Ok(allbook);
+            // su dung reposity pattern 
+            var allBooks =_iReposi.GetallBook(filterOn, filterQuery, sortBy,isAscending, pageNumber, pageSize);
+            return Ok(allBooks);
         }
         [HttpGet]
         [Route("id")]

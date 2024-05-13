@@ -7,6 +7,8 @@ namespace Student_Book_API.Models.Domain
     public class Books
     {
         [Key]
+        [Required]
+        [MaxLength(255)]
         public int Id { get; set; }
         public string? Title { get; set; }
         public string? Description { get; set; }

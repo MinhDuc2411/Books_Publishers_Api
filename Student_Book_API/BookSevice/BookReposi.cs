@@ -1,5 +1,6 @@
 ﻿
 using Microsoft.EntityFrameworkCore;
+using NuGet.Protocol.Core.Types;
 using Student_Book_API.Data;
 using Student_Book_API.Models.Domain;
 using Student_Book_API.Models.DTO;
@@ -32,8 +33,10 @@ namespace Student_Book_API.BookSevice
             return bookwithIdDTO;
         }
 
-        public List<BookWithAuthorPublisherDTO> GetallBook()
-        {
+        public List<BookWithAuthorPublisherDTO> GetallBook(string? filterOn = null, string?
+filterQuery = null, string? sortBy = null, bool isAscending = true, int pageNumber = 1, int
+pageSize = 1000)
+        {        
             var allBooksDTO = _context.Books.Select(Books => new BookWithAuthorPublisherDTO()
             {
                 Id = Books.Id,
@@ -46,8 +49,28 @@ namespace Student_Book_API.BookSevice
                 Url = Books.ConverUrl,
                 PublisherId = Books.Publisher.Name,
                 AuthorName = Books.Books_Authors.Select(n => n.Authors.FullName).ToList()
-            }).ToList();
-            return allBooksDTO;
+            }).AsQueryable();
+            //filtering
+            if (string.IsNullOrWhiteSpace(filterOn) == false &&
+           string.IsNullOrWhiteSpace(filterQuery) == false)
+            {
+                if (filterOn.Equals("title", StringComparison.OrdinalIgnoreCase))
+                {
+                    allBooksDTO = allBooksDTO.Where(x => x.Title.Contains(filterQuery));
+                }
+            }
+            //sorting
+            if (string.IsNullOrWhiteSpace(sortBy) == false)
+            {
+                if (sortBy.Equals("title", StringComparison.OrdinalIgnoreCase))
+                {
+                    allBooksDTO = isAscending ? allBooksDTO.OrderBy(x => x.Title) :
+                   allBooksDTO.OrderByDescending(x => x.Title);
+                }
+            }
+            //pagination
+            var skipResults = (pageNumber - 1) * pageSize;
+            return allBooksDTO.Skip(skipResults).Take(pageSize).ToList();          
         }
 
         public AddBookRequestDTO AddBook(AddBookRequestDTO addBookRequestDTO)
@@ -125,6 +148,11 @@ namespace Student_Book_API.BookSevice
                 _context.SaveChanges();
             }
             return bookDomain;
+        }
+
+        public List<BookWithAuthorPublisherDTO> GetallBook()
+        {
+            throw new NotImplementedException();
         }
     }
 }

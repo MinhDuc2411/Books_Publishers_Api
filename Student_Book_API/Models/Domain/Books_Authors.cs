@@ -9,7 +9,7 @@ namespace Student_Book_API.Models.Domain
         [Required]
         public int BookID { get; set; }
         public int AuthorID { get; set; }
-        public Books Books { get; set; }
-        public Authors  Authors { get; set; }
+        public Books? Books { get; set; }
+        public Authors?  Authors { get; set; }
     }
 }

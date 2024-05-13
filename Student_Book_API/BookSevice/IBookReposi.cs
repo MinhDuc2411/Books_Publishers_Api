@@ -5,7 +5,8 @@ namespace Student_Book_API.BookSevice
 {
     public interface IBookReposi
     {
-        List<BookWithAuthorPublisherDTO> GetallBook();
+        List<BookWithAuthorPublisherDTO> GetallBook(string? filterOn = null, string?
+filterQuery = null, string? sortBy = null, bool isAscending = true, int pageNumber = 1, int pageSize = 1000);
         BookWithAuthorPublisherDTO GetBookById(int id);
         AddBookRequestDTO AddBook(AddBookRequestDTO bookDTO);
         AddBookRequestDTO UpdateBookById(int id, AddBookRequestDTO bookDTO);
