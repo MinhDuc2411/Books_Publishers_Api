@@ -98,3 +98,6 @@ C:\Users\Asus\Desktop\LapTrinhWeB_2\api\Template_mvc\obj\Debug\net8.0\Template_m
 C:\Users\Asus\Desktop\LapTrinhWeB_2\api\Template_mvc\obj\Debug\net8.0\Template_mvc.dll
 C:\Users\Asus\Desktop\LapTrinhWeB_2\api\Template_mvc\obj\Debug\net8.0\refint\Template_mvc.dll
 C:\Users\Asus\Desktop\LapTrinhWeB_2\api\Template_mvc\obj\Debug\net8.0\Template_mvc.pdb
+C:\Users\Asus\Desktop\LapTrinhWeB_2\Student_Book_API\Template_mvc\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\LapTrinhWeB_2\Student_Book_API\Template_mvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\LapTrinhWeB_2\Student_Book_API\Template_mvc\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

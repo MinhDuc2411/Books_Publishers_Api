@@ -3,44 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\services\\librarysevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\services\\librarysevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\dtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\dtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\rest_api_template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\rest_api_template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\services\\librarysevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\services\\librarysevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\migrations\\20240515025750_create new data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\migrations\\20240515025750_create new data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\template_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C92B4-0175-417E-AD26-85500B21C91C}|Template_mvc\\Template_mvc.csproj|solutionrelative:template_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|c:\\users\\asus\\desktop\\laptrinhweb_2\\student_book_api\\rest_api_template\\migrations\\20240515074451_create kk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC402669-B4A4-451A-84CD-C318EEAF9D81}|REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj|solutionrelative:rest_api_template\\migrations\\20240515074451_create kk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,128 +82,224 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibrarySevice.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
-              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
-              "RelativeToolTip": "REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T13:22:15.38Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Template_mvc\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Template_mvc\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-14T14:27:16.152Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Template_mvc\\Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Template_mvc\\Views\\Book\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T03:16:21.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Template_mvc\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Template_mvc\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:12:22.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\appsettings.json",
               "RelativeDocumentMoniker": "REST_API_TEMPLATE\\appsettings.json",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\appsettings.json",
               "RelativeToolTip": "REST_API_TEMPLATE\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-14T03:10:15.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T07:47:09.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240515074451_create kk.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Migrations\\20240515074451_create kk.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Migrations\\20240515074451_create kk.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Migrations\\20240515074451_create kk.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Migrations\\20240515074451_create kk.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:44:51.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\appsettings.json",
-              "RelativeDocumentMoniker": "Template_mvc\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\appsettings.json",
-              "RelativeToolTip": "Template_mvc\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-14T03:10:11.375Z"
+              "Title": "REST_API_TEMPLATE.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj",
+              "RelativeToolTip": "REST_API_TEMPLATE\\REST_API_TEMPLATE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T07:42:21.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Template_mvc\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Template_mvc\\Models\\ErrorViewModel.cs",
+              "DocumentIndex": 4,
+              "Title": "addBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\DTOs\\addBookDTO.cs",
+              "RelativeDocumentMoniker": "Template_mvc\\DTOs\\addBookDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\DTOs\\addBookDTO.cs",
+              "RelativeToolTip": "Template_mvc\\DTOs\\addBookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:08:51.147Z"
+              "WhenOpened": "2024-05-15T07:39:36.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "addBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Models\\addBookDTO.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Models\\addBookDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Models\\addBookDTO.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Models\\addBookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:34:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Models\\BookDTO.cs",
-              "RelativeDocumentMoniker": "Template_mvc\\Models\\BookDTO.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Models\\BookDTO.cs",
-              "RelativeToolTip": "Template_mvc\\Models\\BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Models\\BookDTO.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Models\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Models\\BookDTO.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Models\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:08:50.311Z"
+              "WhenOpened": "2024-05-15T07:32:54.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\DTOs\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "Template_mvc\\DTOs\\LoginResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\DTOs\\LoginResponseDTO.cs",
-              "RelativeToolTip": "Template_mvc\\DTOs\\LoginResponseDTO.cs",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Data\\DbInitializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:08:49.506Z"
+              "WhenOpened": "2024-05-15T03:53:07.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Models\\Book.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Models\\Book.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:52:54.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Program.cs",
-              "RelativeDocumentMoniker": "Template_mvc\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Program.cs",
-              "RelativeToolTip": "Template_mvc\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "LibrarySevice.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Services\\LibrarySevice.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAYwIQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:08:41.394Z"
+              "WhenOpened": "2024-05-15T03:50:13.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240515025750_create new data.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Migrations\\20240515025750_create new data.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Migrations\\20240515025750_create new data.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Migrations\\20240515025750_create new data.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Migrations\\20240515025750_create new data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:38:02.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Template_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Template_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T03:23:29.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Template_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Template_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:16:52.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:00:47.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Program.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Program.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:46:56.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "RelativeToolTip": "REST_API_TEMPLATE\\Controllers\\BookController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:46:37.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Template_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Template_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T02:43:31.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Template_mvc\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Template_mvc\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T03:16:21.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Template_mvc\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\LapTrinhWeB_2\\Student_Book_API\\Template_mvc\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Template_mvc\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:12:22.915Z"
             }
           ]
         }

@@ -9,7 +9,7 @@ namespace REST_API_TEMPLATE.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize]
+//    [Authorize]
     public class BookController : ControllerBase
     {
         private readonly ILibraryService _libraryService;
@@ -27,12 +27,17 @@ namespace REST_API_TEMPLATE.Controllers
         public async Task<IActionResult> GetBooks()
         {
             var books = await _libraryService.GetBooksAsync();
-            if (books == null)
+            try 
             {
-                return StatusCode(StatusCodes.Status204NoContent, "No books in database.");
+   
+                return StatusCode(StatusCodes.Status200OK, books);
+            }
+            catch
+            {
+                return Ok( "No books in database.");
             }
 
-            return StatusCode(StatusCodes.Status200OK, books);
+          
         }
 
         [HttpGet("{id}")]

@@ -107,7 +107,7 @@ namespace REST_API_TEMPLATE.Services
             {
                 return await _db.Books.ToListAsync();
             }
-            catch (Exception ex)
+            catch
             {
                 return null;
             }

@@ -1,4 +1,4 @@
-﻿namespace REST_API_TEMPLATE.DTO
+﻿namespace Template_mvc.DTOs
 {
     public class LoginResponseDTO
     {
